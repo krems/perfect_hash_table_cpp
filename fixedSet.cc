@@ -1,4 +1,4 @@
-// Author: Valeriy Ovchinnikov
+// Author: Krems
 
 #include <algorithm>
 #include <cstdlib>
